@@ -1,0 +1,6 @@
+README.md
+.gitignore
+app/app.py
+app/requirements.txt
+docker/Dockerfile
+azure-pipelines.yml
